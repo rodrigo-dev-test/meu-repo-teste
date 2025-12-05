@@ -1,2 +1,3 @@
 # meu-repo-teste
-Repositório com times existentes vinculados
+
+Gerenciado por Terraform.
